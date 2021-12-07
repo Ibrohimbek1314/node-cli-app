@@ -1,1 +1,13 @@
- 
+ [
+     {
+         "categoryId": 7895,
+         "categoryName": "Electronics",
+         "products": [
+             {
+                 "productId": 1256,
+                 "productName": "Redmi",
+                 "count": 1
+             }
+         ]
+     }
+ ]
