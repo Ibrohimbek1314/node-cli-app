@@ -1,13 +1,23 @@
- [
-     {
-         "categoryId": 7895,
-         "categoryName": "Electronics",
-         "products": [
-             {
-                 "productId": 1256,
-                 "productName": "Redmi",
-                 "count": 1
-             }
-         ]
-     }
- ]
+[
+    {
+        "categoryId": 7895,
+        "categoryName": "Electronics",
+        "products": [
+            {
+                "productId": 1256,
+                "productName": "Redmi",
+                "count": 1
+            }
+        ]
+    },
+    {
+        "categoryId": 6526,
+        "categoryName": "clothes",
+        "products": []
+    },
+    {
+        "categoryId": 3519,
+        "categoryName": "vehicals",
+        "products": []
+    }
+]

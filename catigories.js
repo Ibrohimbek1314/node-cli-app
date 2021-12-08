@@ -2,4 +2,4 @@ const catigoriesModel = require('./model/category.model.js')
 
 let model = new catigoriesModel()
 
-console.table(model.read);
+console.table(model.getCategories());
